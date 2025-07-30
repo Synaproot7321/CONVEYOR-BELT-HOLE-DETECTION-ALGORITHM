@@ -58,9 +58,11 @@ To develop a reliable and efficient algorithm capable of detecting **holes, tear
 | ![Clogged Filter](https://github.com/user-attachments/assets/eb7b7042-322d-4ba7-87a1-55b98ee92c9c) |
 |:--------------------------------------------------------------------------------------------------:|
 | Discharging                                                                                    |
----
+
 5. **Save detections:**
    The system captures each detection and saves it to the computer.
+
+---
    
 ## 📊 IMPACT
 
