@@ -1,4 +1,4 @@
-# 🕳️ HOLE-DETECTION-ALGORITHM
+# 🕳️ CONVEYOR-BELT-HOLE-DETECTION-ALGORITHM
 
 *NOTE: During my experience in the mining sector, I participated in the development of a visual inspection system using machine vision to detect damage on conveyor belts used to move minerals. Out of respect for confidentiality, no images or technical details of the actual system are included. The documentation presented here is a representative simulation developed by me for demonstration purposes.*
 
