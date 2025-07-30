@@ -59,7 +59,9 @@ To develop a reliable and efficient algorithm capable of detecting **holes, tear
 |:--------------------------------------------------------------------------------------------------:|
 | Discharging                                                                                    |
 ---
-
+5. **Save detections:**
+   The system captures each detection and saves it to the computer.
+   
 ## 📊 IMPACT
 
 - ⏱️ **Reduced Inspection Time**  
