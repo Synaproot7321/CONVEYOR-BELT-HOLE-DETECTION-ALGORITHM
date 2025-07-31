@@ -83,7 +83,7 @@ To develop a reliable and efficient algorithm capable of detecting **holes, tear
 
 ---
    
-## 📊 IMPACT
+## 📊 Impact
 
 - ⏱️ **Reduced Inspection Time**  
   By automating the visual inspection process, the algorithm significantly decreases the time required for manual belt monitoring.
